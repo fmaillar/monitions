@@ -1,0 +1,714 @@
+{
+  "Mardi 1er avril 2025": {
+    "lecture": "Ézékiel 47, 1-9.12",
+    "monition": "Ézékiel décrit l'eau jaillissant du Temple, apportant vie et fertilité partout où elle s'écoule."
+  },
+  "Mercredi 2 avril 2025": {
+    "lecture": "Isaïe 49, 8-15",
+    "monition": "Isaïe annonce le salut du Seigneur, qui libère les captifs et guide son peuple vers la lumière."
+  },
+  "Jeudi 3 avril 2025": {
+    "lecture": "Exode 32, 7-14",
+    "monition": "Moïse intercède pour le peuple d'Israël, détournant la colère de Dieu après l'adoration du veau d'or."
+  },
+  "Vendredi 4 avril 2025": {
+    "lecture": "Sagesse 2, 1a.12-22",
+    "monition": "Les impies complotent contre le juste, ignorant que leur malice les conduira à leur perte."
+  },
+  "Samedi 5 avril 2025": {
+    "lecture": "Jérémie 11, 18-20",
+    "monition": "Jérémie, persécuté, remet sa cause entre les mains du Seigneur, juge juste et scrutateur des cœurs."
+  },
+  "Lundi 7 avril 2025": {
+    "lecture": "Daniel 13, 1-9.15-17.19-30.33-62",
+    "monition": "Suzanne, faussement accusée, est sauvée par la sagesse de Daniel révélant la vérité."
+  },
+  "Mardi 8 avril 2025": {
+    "lecture": "Nombres 21, 4-9",
+    "monition": "Dieu ordonne à Moïse d'élever un serpent de bronze pour guérir ceux mordus par des serpents."
+  },
+  "Mercredi 9 avril 2025": {
+    "lecture": "Daniel 3, 14-20.91-92.95",
+    "monition": "Les trois jeunes Hébreux, fidèles, sont sauvés de la fournaise par l'ange du Seigneur."
+  },
+  "Jeudi 10 avril 2025": {
+    "lecture": "Genèse 17, 3-9",
+    "monition": "Dieu établit une alliance avec Abraham, promettant une descendance nombreuse et la terre de Canaan."
+  },
+  "Vendredi 11 avril 2025": {
+    "lecture": "Jérémie 20, 10-13",
+    "monition": "Jérémie, malgré les persécutions, loue le Seigneur qui sauve le pauvre des mains des méchants."
+  },
+  "Samedi 12 avril 2025": {
+    "lecture": "Ézékiel 37, 21-28",
+    "monition": "Dieu promet de rassembler Israël, de le purifier et d'établir une alliance éternelle de paix."
+  },
+  "Lundi 21 avril 2025": {
+    "lecture": "Actes des Apôtres 2, 14.22-33",
+    "monition": "Pierre proclame que Jésus, ressuscité, est le Messie annoncé par les prophètes."
+  },
+  "Mardi 22 avril 2025": {
+    "lecture": "Actes des Apôtres 2, 36-41",
+    "monition": "Pierre exhorte à la conversion et au baptême au nom de Jésus pour le pardon des péchés."
+  },
+  "Mercredi 23 avril 2025": {
+    "lecture": "Actes des Apôtres 3, 1-10",
+    "monition": "Pierre guérit un boiteux au nom de Jésus, témoignant de la puissance du Ressuscité."
+  },
+  "Jeudi 24 avril 2025": {
+    "lecture": "Actes des Apôtres 3, 11-26",
+    "monition": "Pierre annonce que la foi en Jésus a rendu la santé à l'infirme guéri."
+  },
+  "Vendredi 25 avril 2025": {
+    "lecture": "1 Pierre 5, 5b-14",
+    "monition": "Saint Pierre exhorte à l'humilité et à la vigilance contre le diable, assurant du soutien de Dieu."
+  },
+  "Samedi 26 avril 2025": {
+    "lecture": "Actes des Apôtres 4, 13-21",
+    "monition": "Les autorités interdisent aux apôtres de parler de Jésus, mais ils refusent d'obéir."
+  },
+  "Lundi 28 avril 2025": {
+    "lecture": "Actes des Apôtres 4, 23-31",
+    "monition": "Les croyants prient pour avoir de l'audace afin d'annoncer la parole de Dieu."
+  },
+  "Mardi 29 avril 2025": {
+    "lecture": "Actes des Apôtres 4, 32-37",
+    "monition": "La communauté des croyants est unie, partageant tout, et personne n'est dans le besoin."
+  },
+  "Mercredi 30 avril 2025": {
+    "lecture": "Actes des Apôtres 5, 17-26",
+    "monition": "Les apôtres, emprisonnés, sont libérés par un ange et continuent de prêcher au Temple."
+  },
+  "Jeudi 1er mai 2025": {
+    "lecture": "Actes des Apôtres 5, 27-33",
+    "monition": "Les apôtres témoignent avec courage de la résurrection de Jésus devant le Conseil suprême."
+  },
+  "Vendredi 2 mai 2025": {
+    "lecture": "Actes des Apôtres 5, 34-42",
+    "monition": "Gamaliel conseille de laisser les apôtres, suggérant que leur œuvre pourrait venir de Dieu."
+  },
+  "Samedi 3 mai 2025": {
+    "lecture": "1 Corinthiens 15, 1-8",
+    "monition": "Saint Paul rappelle aux Corinthiens l'Évangile qu'il leur a annoncé, centré sur la mort et la résurrection du Christ."
+  },
+  "Dimanche 4 mai 2025": {
+    "lecture": "Actes des Apôtres 2, 14.22-33",
+    "monition": "Pierre proclame que Jésus, ressuscité, est le Messie annoncé par les prophètes."
+  },
+  "Lundi 5 mai 2025": {
+    "lecture": "Actes des Apôtres 6, 8-15",
+    "monition": "Étienne, rempli de grâce et de puissance, accomplit des prodiges, suscitant l'opposition de certains."
+  },
+  "Mardi 6 mai 2025": {
+    "lecture": "Actes des Apôtres 7, 51 – 8, 1a",
+    "monition": "Étienne reproche à ses auditeurs leur résistance à l'Esprit Saint et devient le premier martyr chrétien."
+  },
+  "Mercredi 7 mai 2025": {
+    "lecture": "Actes des Apôtres 8, 1b-8",
+    "monition": "La persécution disperse les disciples, mais Philippe proclame avec succès le Christ en Samarie."
+  },
+  "Jeudi 8 mai 2025": {
+    "lecture": "Actes des Apôtres 8, 26-40",
+    "monition": "Philippe, guidé par l'Esprit, explique l'Écriture à un eunuque éthiopien qui demande le baptême."
+  },
+  "Vendredi 9 mai 2025": {
+    "lecture": "Actes des Apôtres 9, 1-20",
+    "monition": "Saul, persécuteur des chrétiens, rencontre le Seigneur sur le chemin de Damas et se convertit."
+  },
+  "Samedi 10 mai 2025": {
+    "lecture": "Actes des Apôtres 9, 31-42",
+    "monition": "Pierre guérit Énée et ressuscite Tabitha, amenant de nombreuses conversions à Joppé."
+  },
+  "Lundi 12 mai 2025": {
+    "lecture": "Actes des Apôtres 11, 1-18",
+    "monition": "Pierre explique sa vision et l'accueil des païens dans l'Église, convainquant les croyants juifs."
+  },
+  "Mardi 13 mai 2025": {
+    "lecture": "Actes des Apôtres 11, 19-26",
+    "monition": "À Antioche, les disciples sont pour la première fois appelés chrétiens, grâce à l'enseignement de Barnabé et Saul."
+  },
+  "Mercredi 14 mai 2025": {
+    "lecture": "Actes des Apôtres 1, 15-17.20-26",
+    "monition": "Matthias est choisi pour remplacer Judas parmi les Douze apôtres."
+  },
+  "Jeudi 15 mai 2025": {
+    "lecture": "Actes des Apôtres 13, 13-25",
+    "monition": "Paul rappelle l'histoire du salut, soulignant la venue de Jésus, descendant de David, comme Sauveur."
+  },
+  "Vendredi 16 mai 2025": {
+    "lecture": "Actes des Apôtres 13, 26-33",
+    "monition": "Paul annonce que Dieu a accompli sa promesse en ressuscitant Jésus, confirmant ainsi les Écritures."
+  },
+  "Samedi 17 mai 2025": {
+    "lecture": "Actes des Apôtres 13, 44-52",
+    "monition": "Paul et Barnabé se tournent vers les païens après le rejet de leur message par les Juifs."
+  },
+  "Lundi 19 mai 2025": {
+    "lecture": "Actes des Apôtres 14, 5-18",
+    "monition": "À Lystres, Paul guérit un infirme, mais refuse d'être adoré comme un dieu, rendant gloire au Créateur."
+  },
+  "Mardi 20 mai 2025": {
+    "lecture": "Actes des Apôtres 14, 19-28",
+    "monition": "Après avoir été lapidé, Paul continue de fortifier les disciples et d'établir des anciens dans chaque Église."
+  },
+  "Mercredi 21 mai 2025": {
+    "lecture": "Actes des Apôtres 15, 1-6",
+    "monition": "Un débat surgit sur la nécessité de la circoncision pour les païens convertis, menant au concile de Jérusalem."
+  },
+  "Jeudi 22 mai 2025": {
+    "lecture": "Actes des Apôtres 15, 7-21",
+    "monition": "Pierre affirme que Dieu accorde le salut aux païens par la foi, sans imposer le joug de la Loi mosaïque."
+  },
+  "Vendredi 23 mai 2025": {
+    "lecture": "Actes des Apôtres 15, 22-31",
+    "monition": "Les apôtres envoient une lettre aux païens convertis, les libérant des obligations de la Loi juive."
+  },
+  "Samedi 24 mai 2025": {
+    "lecture": "Actes des Apôtres 16, 1-10",
+    "monition": "Paul recrute Timothée et, guidé par une vision, part évangéliser la Macédoine."
+  },
+  "Lundi 26 mai 2025": {
+    "lecture": "Actes des Apôtres 16, 11-15",
+    "monition": "À Philippes, Lydie, une marchande de pourpre, est baptisée avec sa famille après avoir écouté Paul."
+  },
+  "Mardi 27 mai 2025": {
+    "lecture": "Actes des Apôtres 16, 22-34",
+    "monition": "Paul et Silas, emprisonnés, prient et chantent ; un tremblement de terre les libère, conduisant à la conversion du geôlier."
+  },
+  "Mercredi 28 mai 2025": {
+    "lecture": "Actes des Apôtres 17, 15.22 – 18, 1",
+    "monition": "À Athènes, Paul prêche aux philosophes sur l'autel du \"Dieu inconnu\", annonçant le vrai Dieu."
+  },
+  "Jeudi 29 mai 2025": {
+    "lecture": "Actes des Apôtres 18, 1-8",
+    "monition": "À Corinthe, Paul rencontre Aquilas et Priscille, et témoigne que Jésus est le Messie."
+  },
+  "Vendredi 30 mai 2025": {
+    "lecture": "Actes des Apôtres 18, 9-18",
+    "monition": "Le Seigneur encourage Paul à persévérer à Corinthe, où il reste un an et demi à enseigner."
+  },
+  "Samedi 31 mai 2025": {
+    "lecture": "Sophonie 3, 14-18",
+    "monition": "Sophonie exhorte Jérusalem à se réjouir, car le Seigneur est en elle pour la sauver."
+  },
+  "Lundi 2 juin 2025": {
+    "lecture": "Tobie 1, 3; 2, 1b-8",
+    "monition": "Tobie, fidèle observant de la Loi, accomplit des œuvres de charité envers ses compatriotes exilés."
+  },
+  "Mardi 3 juin 2025": {
+    "lecture": "Tobie 2, 9-14",
+    "monition": "Tobie, devenu aveugle, endure l'épreuve avec patience, soutenu par sa foi en Dieu."
+  },
+  "Mercredi 4 juin 2025": {
+    "lecture": "Tobie 3, 1-11a.16-17a",
+    "monition": "Tobie et Sara, tous deux en détresse, prient Dieu qui envoie l'ange Raphaël pour les secourir."
+  },
+  "Jeudi 5 juin 2025": {
+    "lecture": "Tobie 6, 10-11; 7, 1.9-17; 8, 4-9a",
+    "monition": "Tobie épouse Sara, et ensemble ils prient pour que leur union soit bénie par Dieu."
+  },
+  "Vendredi 6 juin 2025": {
+    "lecture": "Tobie 11, 5-17",
+    "monition": "Tobie, guidé par l'ange Raphaël, retrouve la vue et rend grâce à Dieu pour sa miséricorde."
+  },
+  "Samedi 7 juin 2025": {
+    "lecture": "Tobie 12, 1.5-15.20",
+    "monition": "L'ange Raphaël révèle son identité et exhorte Tobie à rendre gloire à Dieu pour ses bienfaits."
+  },
+  "Lundi 9 juin 2025": {
+    "lecture": "2 Corinthiens 1, 1-7",
+    "monition": "Saint Paul bénit Dieu, source de toute consolation, qui nous réconforte dans nos détresses pour que nous puissions consoler les autres."
+  },
+  "Mardi 10 juin 2025": {
+    "lecture": "2 Corinthiens 1, 18-22",
+    "monition": "Saint Paul affirme que Jésus Christ est le \"oui\" définitif de Dieu, et que nous avons été marqués de son sceau par l'Esprit."
+  },
+  "Mercredi 11 juin 2025": {
+    "lecture": "Actes des Apôtres 11, 21b-26; 13, 1-3",
+    "monition": "Barnabé, homme de foi et rempli d'Esprit Saint, est envoyé à Antioche pour affermir les disciples et chercher Saul."
+  },
+  "Jeudi 12 juin 2025": {
+    "lecture": "2 Corinthiens 3, 15 – 4, 1.3-6",
+    "monition": "Saint Paul enseigne que, par le Christ, le voile est levé et nous contemplons la gloire de Dieu avec un visage découvert."
+  },
+  "Vendredi 13 juin 2025": {
+    "lecture": "2 Corinthiens 4, 7-15",
+    "monition": "Saint Paul souligne que, bien que fragiles comme des vases d'argile, nous portons en nous la puissance de Dieu qui se manifeste dans nos épreuves."
+  },
+  "Samedi 14 juin 2025": {
+    "lecture": "2 Corinthiens 5, 14-21",
+    "monition": "Saint Paul affirme que, par le Christ, Dieu nous a réconciliés avec lui et nous a confié le ministère de la réconciliation"
+  },
+  "Lundi 16 juin 2025": {
+    "lecture": "2 Corinthiens 6, 1-10",
+    "monition": "Saint Paul exhorte à ne pas recevoir en vain la grâce de Dieu, rappelant les épreuves endurées pour l'Évangile."
+  },
+  "Mardi 17 juin 2025": {
+    "lecture": "2 Corinthiens 8, 1-9",
+    "monition": "Saint Paul encourage la générosité, prenant exemple sur les Églises de Macédoine et sur la grâce de Jésus Christ qui s'est fait pauvre pour nous enrichir."
+  },
+  "Mercredi 18 juin 2025": {
+    "lecture": "2 Corinthiens 9, 6-11",
+    "monition": "Saint Paul rappelle que celui qui sème avec largesse moissonnera abondamment, exhortant à donner avec joie, car Dieu aime celui qui donne avec joie."
+  },
+  "Jeudi 19 juin 2025": {
+    "lecture": "2 Corinthiens 11, 1-11",
+    "monition": "Saint Paul exprime sa jalousie divine pour les Corinthiens, les ayant fiancés à un seul époux, le Christ, et dénonce les faux apôtres."
+  },
+  "Vendredi 20 juin 2025": {
+    "lecture": "2 Corinthiens 11, 18.21b-30",
+    "monition": "Saint Paul énumère les nombreuses épreuves et souffrances endurées pour l'Évangile, se glorifiant de ses faiblesses."
+  },
+  "Samedi 21 juin 2025": {
+    "lecture": "2 Corinthiens 12, 1-10",
+    "monition": "Saint Paul parle de ses visions et révélations, mais se glorifie surtout de sa faiblesse, car la puissance de Christ s'accomplit dans la faiblesse."
+  },
+  "Lundi 23 juin 2025": {
+    "lecture": "Genèse 12, 1-9",
+    "monition": "Dieu appelle Abram à quitter son pays pour une terre qu'il lui montrera, lui promettant de faire de lui une grande nation."
+  },
+  "Mardi 24 juin 2025": {
+    "lecture": "Isaïe 49, 1-6",
+    "monition": "Isaïe annonce la mission du serviteur du Seigneur, appelé dès le sein maternel pour être la lumière des nations."
+  },
+  "Mercredi 25 juin 2025": {
+    "lecture": "Genèse 15, 1-12.17-18",
+    "monition": "Dieu fait alliance avec Abram, lui promettant une descendance aussi nombreuse que les étoiles et la possession du pays."
+  },
+  "Jeudi 26 juin 2025": {
+    "lecture": "Genèse 16, 1-12.15-16",
+    "monition": "Agar, servante de Saraï, enceinte d'Abram, fuit sa maîtresse mais reçoit de l'ange du Seigneur la promesse d'une nombreuse descendance."
+  },
+  "Vendredi 27 juin 2025": {
+    "lecture": "Ézékiel 34, 11-16",
+    "monition": "Dieu, comme un berger attentif, promet de rassembler et de prendre soin de ses brebis dispersées."
+  },
+  "Samedi 28 juin 2025": {
+    "lecture": "Genèse 18, 1-15",
+    "monition": "Le Seigneur annonce à Abraham que, malgré leur âge avancé, Sara aura un fils, démontrant que rien n'est impossible à Dieu."
+  },
+  "Lundi 30 juin 2025": {
+    "lecture": "Genèse 18, 16-33",
+    "monition": "Abraham intercède auprès de Dieu pour épargner Sodome, soulignant la justice divine et la valeur de l'intercession."
+  },
+  "Mardi 1er juillet 2025": {
+    "lecture": "Genèse 19, 15-29",
+    "monition": "Dieu détruit Sodome et Gomorrhe, mais épargne Loth et sa famille en raison de leur justice."
+  },
+  "Mercredi 2 juillet 2025": {
+    "lecture": "Genèse 21, 5.8-20",
+    "monition": "Agar et son fils Ismaël, chassés au désert, sont secourus par Dieu qui leur promet une grande descendance."
+  },
+  "Jeudi 3 juillet 2025": {
+    "lecture": "Éphésiens 2, 19-22",
+    "monition": "Saint Paul enseigne que nous sommes concitoyens des saints, membres de la maison de Dieu, édifiés sur le fondement des apôtres."
+  },
+  "Vendredi 4 juillet 2025": {
+    "lecture": "Genèse 23, 1-4.19; 24, 1-8.62-67",
+    "monition": "Abraham cherche une épouse pour Isaac, et Dieu guide Éliézer vers Rébecca, assurant ainsi la lignée promise."
+  },
+  "Samedi 5 juillet 2025": {
+    "lecture": "Genèse 27, 1-5.15-29",
+    "monition": "Jacob, avec la complicité de sa mère Rébecca, obtient la bénédiction destinée à Ésaü, accomplissant ainsi le dessein divin."
+  },
+  "Lundi 7 juillet 2025": {
+    "lecture": "Genèse 28, 10-22a",
+    "monition": "Jacob rêve d'une échelle reliant ciel et terre, et Dieu lui renouvelle la promesse faite à Abraham."
+  },
+  "Mardi 8 juillet 2025": {
+    "lecture": "Genèse 32, 23-32",
+    "monition": "Jacob lutte toute la nuit avec un homme mystérieux, reçoit le nom d'Israël et est béni."
+  },
+  "Mercredi 9 juillet 2025": {
+    "lecture": "Genèse 41, 55-57; 42, 5-7a.17-24a",
+    "monition": "Joseph, devenu gouverneur d'Égypte, retrouve ses frères venus chercher du grain lors de la famine."
+  },
+  "Jeudi 10 juillet 2025": {
+    "lecture": "Genèse 44, 18-21.23b-29; 45, 1-5",
+    "monition": "Joseph se révèle à ses frères et leur pardonne, reconnaissant le plan de Dieu dans son épreuve."
+  },
+  "Vendredi 11 juillet 2025": {
+    "lecture": "Proverbes 2, 1-9",
+    "monition": "La sagesse est un trésor offert à ceux qui cherchent Dieu, leur procurant droiture et discernement."
+  },
+  "Samedi 12 juillet 2025": {
+    "lecture": "Genèse 49, 29-33; 50, 15-26a",
+    "monition": "Après la mort de Jacob, Joseph rassure ses frères en leur affirmant que Dieu transforme le mal en bien."
+  },
+  "Lundi 14 juillet 2025": {
+    "lecture": "Exode 1, 8-14.22",
+    "monition": "Un nouveau pharaon opprime les Hébreux, les réduisant en esclavage et ordonnant la mise à mort de leurs nouveau-nés mâles."
+  },
+  "Mardi 15 juillet 2025": {
+    "lecture": "Exode 2, 1-15a",
+    "monition": "Moïse, sauvé des eaux et élevé à la cour de Pharaon, prend conscience de ses origines hébraïques et défend son peuple."
+  },
+  "Mercredi 16 juillet 2025": {
+    "lecture": "Exode 3, 1-6.9-12",
+    "monition": "Dieu appelle Moïse depuis le buisson ardent pour libérer son peuple d'Égypte."
+  },
+  "Jeudi 17 juillet 2025": {
+    "lecture": "Exode 3, 13-20",
+    "monition": "Dieu révèle à Moïse son nom : « Je suis qui je suis », et promet de délivrer Israël."
+  },
+  "Vendredi 18 juillet 2025": {
+    "lecture": "Exode 11, 10 – 12, 14",
+    "monition": "Dieu institue la Pâque, signe de la libération d'Israël de l'esclavage en Égypte."
+  },
+  "Samedi 19 juillet 2025": {
+    "lecture": "Exode 12, 37-42",
+    "monition": "Les Israélites quittent l'Égypte après 430 ans, accomplissant la promesse divine."
+  },
+  "Lundi 21 juillet 2025": {
+    "lecture": "Exode 14, 5-18",
+    "monition": "Dieu ouvre la mer Rouge pour permettre à son peuple de fuir l'armée égyptienne."
+  },
+  "Mardi 22 juillet 2025": {
+    "lecture": "Cantique des Cantiques 3, 1-4a",
+    "monition": "La bien-aimée cherche et trouve celui que son cœur aime."
+  },
+  "Mercredi 23 juillet 2025": {
+    "lecture": "Exode 16, 1-5.9-15",
+    "monition": "Dieu nourrit son peuple dans le désert en faisant pleuvoir la manne du ciel."
+  },
+  "Jeudi 24 juillet 2025": {
+    "lecture": "Exode 19, 1-2.9-11.16-20b",
+    "monition": "Dieu se manifeste sur le mont Sinaï pour établir son alliance avec Israël."
+  },
+  "Vendredi 25 juillet 2025": {
+    "lecture": "2 Corinthiens 4, 7-15",
+    "monition": "Saint Paul souligne que la puissance de Dieu se manifeste dans notre faiblesse."
+  },
+  "Samedi 26 juillet 2025": {
+    "lecture": "Exode 24, 3-8",
+    "monition": "Moïse scelle l'alliance entre Dieu et Israël en aspergeant le peuple du sang de l'alliance."
+  },
+  "Lundi 28 juillet 2025": {
+    "lecture": "Exode 32, 15-24.30-34",
+    "monition": "Moïse intercède pour le peuple après le péché du veau d'or, implorant le pardon de Dieu."
+  },
+  "Mardi 29 juillet 2025": {
+    "lecture": "Exode 33, 7-11 ; 34, 5b-9.28",
+    "monition": "Dieu parle à Moïse face à face et renouvelle l'alliance avec Israël."
+  },
+  "Mercredi 30 juillet 2025": {
+    "lecture": "Exode 34, 29-35",
+    "monition": "Le visage de Moïse rayonne après avoir parlé avec Dieu, reflétant la gloire divine."
+  },
+  "Jeudi 31 juillet 2025": {
+    "lecture": "Lévitique 23, 1.4-11.15-16.27.34b-37",
+    "monition": "Dieu institue les fêtes liturgiques pour Israël, signes de l'alliance et de la sanctification"
+  },
+  "Vendredi 1ᵉʳ août 2025": {
+    "lecture": "Lévitique 23, 1.4-11.15-16.27.34b-37",
+    "monition": "Le Seigneur institue les solennités sacrées d'Israël, établissant des temps de fête et de rencontre avec Lui."
+  },
+  "Samedi 2 août 2025": {
+    "lecture": "Lévitique 25, 1.8-17",
+    "monition": "Dieu établit l'année jubilaire, temps de libération et de retour aux possessions ancestrales."
+  },
+  "Lundi 4 août 2025": {
+    "lecture": "Nombres 11, 4b-15",
+    "monition": "Moïse, accablé par les plaintes du peuple, implore le Seigneur de l'aider à porter le fardeau."
+  },
+  "Mardi 5 août 2025": {
+    "lecture": "Nombres 12, 1-13",
+    "monition": "Marie et Aaron critiquent Moïse ; Dieu les reprend, soulignant la singularité de sa relation avec Moïse."
+  },
+  "Mercredi 6 août 2025": {
+    "lecture": "Daniel 7, 9-10.13-14",
+    "monition": "Daniel a une vision du Fils de l'homme recevant domination et gloire éternelles de l'Ancien des Jours."
+  },
+  "Jeudi 7 août 2025": {
+    "lecture": "Nombres 20, 1-13",
+    "monition": "Moïse, en frappant le rocher pour en faire jaillir de l'eau, manque de confiance en Dieu, ce qui lui vaut de ne pas entrer en Terre promise."
+  },
+  "Vendredi 8 août 2025": {
+    "lecture": "Deutéronome 4, 32-40",
+    "monition": "Moïse exhorte Israël à reconnaître l'unicité de Dieu et à observer ses commandements pour leur bonheur."
+  },
+  "Samedi 9 août 2025": {
+    "lecture": "Deutéronome 6, 4-13",
+    "monition": "Moïse rappelle le commandement suprême : aimer le Seigneur de tout son cœur, de toute son âme et de toute sa force."
+  },
+  "Lundi 11 août 2025": {
+    "lecture": "Deutéronome 10, 12-22",
+    "monition": "Moïse exhorte Israël à craindre le Seigneur, à marcher dans ses voies et à l'aimer, car Il est leur louange."
+  },
+  "Mardi 12 août 2025": {
+    "lecture": "Deutéronome 31, 1-8",
+    "monition": "Moïse encourage Josué et le peuple, affirmant que le Seigneur marche devant eux et ne les abandonnera pas."
+  },
+  "Mercredi 13 août 2025": {
+    "lecture": "Deutéronome 34, 1-12",
+    "monition": "Moïse, après avoir contemplé la Terre promise depuis le mont Nébo, meurt selon la parole du Seigneur."
+  },
+  "Jeudi 14 août 2025": {
+    "lecture": "Josué 3, 7-10a.11.13-17",
+    "monition": "Dieu exalte Josué aux yeux d'Israël en arrêtant les eaux du Jourdain pour leur passage."
+  },
+  "Samedi 16 août 2025": {
+    "lecture": "Josué 24, 14-29",
+    "monition": "Josué exhorte le peuple à servir le Seigneur avec fidélité, renouvelant l'alliance à Sichem."
+  },
+  "Lundi 18 août 2025": {
+    "lecture": "Juges 2, 11-19",
+    "monition": "Après la mort de Josué, les Israélites abandonnent le Seigneur pour servir les Baals, suscitant des juges pour les sauver."
+  },
+  "Mardi 19 août 2025": {
+    "lecture": "Juges 6, 11-24a",
+    "monition": "L'ange du Seigneur appelle Gédéon à délivrer Israël de l'oppression madianite."
+  },
+  "Mercredi 20 août 2025": {
+    "lecture": "Juges 9, 6-15",
+    "monition": "Yotam raconte la parabole des arbres pour dénoncer le règne illégitime d'Abimélek."
+  },
+  "Jeudi 21 août 2025": {
+    "lecture": "Juges 11, 29-39a",
+    "monition": "Jephthé fait un vœu imprudent au Seigneur avant de combattre les Ammonites."
+  },
+  "Vendredi 22 août 2025": {
+    "lecture": "Ruth 1, 1.3-6.14b-16.22",
+    "monition": "Ruth, veuve, choisit de suivre sa belle-mère Noémi et d'adopter le Dieu d'Israël."
+  },
+  "Samedi 23 août 2025": {
+    "lecture": "Ruth 2, 1-3.8-11; 4, 13-17",
+    "monition": "Ruth glane dans les champs de Booz, qui l'épouse, assurant ainsi une descendance à Noémi."
+  },
+  "Lundi 25 août 2025": {
+    "lecture": "1 Thessaloniciens 1, 1-5.8b-10",
+    "monition": "Saint Paul félicite les Thessaloniciens pour leur foi exemplaire et leur conversion des idoles au Dieu vivant."
+  },
+  "Mardi 26 août 2025": {
+    "lecture": "1 Thessaloniciens 2, 1-8",
+    "monition": "Saint Paul rappelle son comportement irréprochable et son affection pour les Thessaloniciens lors de son ministère parmi eux."
+  },
+  "Mercredi 27 août 2025": {
+    "lecture": "1 Thessaloniciens 2, 9-13",
+    "monition": "Saint Paul souligne son travail acharné pour ne pas être à charge et remercie Dieu pour l'accueil de la Parole par les Thessaloniciens."
+  },
+  "Jeudi 28 août 2025": {
+    "lecture": "1 Thessaloniciens 3, 7-13",
+    "monition": "Saint Paul exprime sa joie pour la foi des Thessaloniciens et prie pour qu'ils grandissent dans l'amour."
+  },
+  "Vendredi 29 août 2025": {
+    "lecture": "1 Thessaloniciens 4, 1-8",
+    "monition": "Saint Paul exhorte à une vie sainte, en s'abstenant de l'immoralité et en vivant selon la volonté de Dieu."
+  },
+  "Samedi 30 août 2025": {
+    "lecture": "1 Thessaloniciens 4, 9-11",
+    "monition": "Saint Paul encourage l'amour fraternel et une vie paisible, en travaillant de ses propres mains."
+  },
+  "Lundi 1ᵉʳ septembre 2025": {
+    "lecture": "1 Thessaloniciens 4, 13-18",
+    "monition": "Saint Paul nous assure que, par Jésus, Dieu emmènera avec lui ceux qui se sont endormis dans la mort."
+  },
+  "Mardi 2 septembre 2025": {
+    "lecture": "1 Thessaloniciens 5, 1-6.9-11",
+    "monition": "Saint Paul rappelle que le jour du Seigneur viendra comme un voleur dans la nuit ; restons donc vigilants et sobres."
+  },
+  "Mercredi 3 septembre 2025": {
+    "lecture": "Colossiens 1, 1-8",
+    "monition": "Saint Paul exprime sa gratitude pour la foi des Colossiens et l'amour qu'ils ont pour tous les saints."
+  },
+  "Jeudi 4 septembre 2025": {
+    "lecture": "Colossiens 1, 9-14",
+    "monition": "Saint Paul prie pour que les Colossiens soient remplis de la connaissance de la volonté de Dieu en toute sagesse."
+  },
+  "Vendredi 5 septembre 2025": {
+    "lecture": "Colossiens 1, 15-20",
+    "monition": "Saint Paul proclame que le Christ est l'image du Dieu invisible, premier-né de toute création."
+  },
+  "Samedi 6 septembre 2025": {
+    "lecture": "Colossiens 1, 21-23",
+    "monition": "Saint Paul exhorte les Colossiens à demeurer fermes dans la foi, sans se laisser détourner de l'espérance de l'Évangile."
+  },
+  "Lundi 8 septembre 2025": {
+    "lecture": "Michée 5, 1-4a",
+    "monition": "Michée annonce la naissance à Bethléem de celui qui gouvernera Israël, apportant la paix."
+  },
+  "Mardi 9 septembre 2025": {
+    "lecture": "Colossiens 2, 6-15",
+    "monition": "Saint Paul invite à vivre en Christ, enracinés en lui, et rappelle que Dieu nous a pardonné toutes nos fautes."
+  },
+  "Mercredi 10 septembre 2025": {
+    "lecture": "Colossiens 3, 1-11",
+    "monition": "Saint Paul exhorte à rechercher les réalités d'en haut et à revêtir l'homme nouveau, image du Créateur."
+  },
+  "Jeudi 11 septembre 2025": {
+    "lecture": "Colossiens 3, 12-17",
+    "monition": "Saint Paul encourage à revêtir des sentiments de compassion, de bonté, d'humilité, de douceur et de patience."
+  },
+  "Vendredi 12 septembre 2025": {
+    "lecture": "1 Timothée 1, 1-2.12-14",
+    "monition": "Saint Paul rend grâce au Christ Jésus qui lui a donné la force et l'a jugé fidèle en l'établissant dans le ministère."
+  },
+  "Samedi 13 septembre 2025": {
+    "lecture": "1 Timothée 1, 15-17",
+    "monition": "Saint Paul proclame que le Christ est venu dans le monde pour sauver les pécheurs, dont il est le premier."
+  },
+  "Lundi 15 septembre 2025": {
+    "lecture": "Hébreux 5, 7-9",
+    "monition": "Le Christ, bien qu'étant Fils, a appris l'obéissance par ses souffrances et est devenu source de salut éternel."
+  },
+  "Mardi 16 septembre 2025": {
+    "lecture": "1 Timothée 3, 1-13",
+    "monition": "Saint Paul décrit les qualités requises pour ceux qui aspirent à la charge d'évêque ou de diacre dans l'Église."
+  },
+  "Mercredi 17 septembre 2025": {
+    "lecture": "1 Timothée 3, 14-16",
+    "monition": "Saint Paul écrit sur le mystère de la piété : le Christ manifesté dans la chair, justifié dans l'Esprit, prêché parmi les nations."
+  },
+  "Jeudi 18 septembre 2025": {
+    "lecture": "1 Timothée 4, 12-16",
+    "monition": "Saint Paul exhorte Timothée à être un modèle pour les fidèles en parole, en conduite, en charité, en foi, en pureté."
+  },
+  "Vendredi 19 septembre 2025": {
+    "lecture": "1 Timothée 6, 2c-12",
+    "monition": "Saint Paul encourage à rechercher la justice, la piété, la foi, la charité, la persévérance et la douceur."
+  },
+  "Samedi 20 septembre 2025": {
+    "lecture": "1 Timothée 6, 13-16",
+    "monition": "Saint Paul rappelle que le Christ Jésus a rendu son témoignage devant Ponce Pilate et exhorte à garder le commandement sans tache."
+  },
+  "Lundi 22 septembre 2025": {
+    "lecture": "Esdras 1, 1-6",
+    "monition": "Sous l'inspiration divine, Cyrus, roi de Perse, permet aux exilés juifs de retourner à Jérusalem pour reconstruire le Temple."
+  },
+  "Mardi 23 septembre 2025": {
+    "lecture": "Esdras 6, 7-8.12b.14-20",
+    "monition": "La maison de Dieu est achevée et les fils d'Israël célèbrent la Pâque avec joie."
+  },
+  "Mercredi 24 septembre 2025": {
+    "lecture": "Esdras 9, 5-9",
+    "monition": "Esdras confesse les fautes du peuple et rend grâce à Dieu pour sa miséricorde en permettant un reste d'Israël."
+  },
+  "Jeudi 25 septembre 2025": {
+    "lecture": "Aggée 1, 1-8",
+    "monition": "Le prophète Aggée exhorte le peuple à reconstruire le Temple du Seigneur, appelant à réfléchir sur leurs voies."
+  },
+  "Vendredi 26 septembre 2025": {
+    "lecture": "Aggée 2, 1-9",
+    "monition": "Dieu promet que la gloire future de ce Temple surpassera la première et qu'il y répandra la paix."
+  },
+  "Samedi 27 septembre 2025": {
+    "lecture": "Zacharie 2, 5-9.14-15a",
+    "monition": "Zacharie annonce que Jérusalem sera une ville ouverte, protégée par le Seigneur lui-même."
+  },
+  "Lundi 29 septembre 2025": {
+    "lecture": "Daniel 7, 9-10.13-14",
+    "monition": "Daniel a une vision du Fils de l'homme recevant domination et gloire éternelles de l'Ancien des Jours."
+  },
+  "Mardi 30 septembre 2025": {
+    "lecture": "Job 1, 6-22",
+    "monition": "Job, malgré la perte de ses biens et de ses enfants, bénit le nom du Seigneur sans pécher."
+  },
+  "Mercredi 1er octobre 2025": {
+    "lecture": "Job 9, 1-12.14-16",
+    "monition": "Job reconnaît la toute-puissance de Dieu et l'impossibilité pour l'homme de contester avec Lui."
+  },
+  "Jeudi 2 octobre 2025": {
+    "lecture": "Exode 23, 20-23",
+    "monition": "Dieu envoie un ange pour guider et protéger son peuple sur le chemin."
+  },
+  "Vendredi 3 octobre 2025": {
+    "lecture": "Job 38, 1.12-21; 40, 3-5",
+    "monition": "Dieu interroge Job sur les mystères de la création, soulignant la sagesse divine"
+  },
+  "Samedi 4 octobre 2025": {
+    "lecture": "Job 42, 1-3.5-6.12-17",
+    "monition": "Job reconnaît la toute-puissance de Dieu et est béni au-delà de ses premières richesses."
+  },
+  "Lundi 6 octobre 2025": {
+    "lecture": "Jonas 1, 1 – 2, 1.11",
+    "monition": "Jonas fuit l'appel de Dieu, est jeté à la mer et avalé par un grand poisson."
+  },
+  "Mardi 7 octobre 2025": {
+    "lecture": "Jonas 3, 1-10",
+    "monition": "Jonas proclame la parole de Dieu à Ninive ; les habitants se repentent et Dieu renonce au châtiment."
+  },
+  "Mercredi 8 octobre 2025": {
+    "lecture": "Jonas 4, 1-11",
+    "monition": "Jonas se plaint de la miséricorde divine envers Ninive ; Dieu lui enseigne la valeur de la compassion."
+  },
+  "Jeudi 9 octobre 2025": {
+    "lecture": "Malachie 3, 13-20a",
+    "monition": "Malachie annonce que le jour du Seigneur viendra, apportant justice et guérison pour les fidèles."
+  },
+  "Vendredi 10 octobre 2025": {
+    "lecture": "Joël 1, 13-15 ; 2, 1-2",
+    "monition": "Joël appelle à la pénitence, annonçant le jour du Seigneur, jour de ténèbres et de détresse."
+  },
+  "Samedi 11 octobre 2025": {
+    "lecture": "Joël 4, 12-21",
+    "monition": "Joël prophétise le jugement des nations et la bénédiction future pour le peuple de Dieu."
+  },
+  "Lundi 13 octobre 2025": {
+    "lecture": "Romains 1, 1-7",
+    "monition": "Saint Paul se présente comme apôtre, appelé à annoncer l'Évangile de Dieu concernant son Fils."
+  },
+  "Mardi 14 octobre 2025": {
+    "lecture": "Romains 1, 16-25",
+    "monition": "Saint Paul affirme que l'Évangile est puissance de Dieu pour le salut de tout croyant."
+  },
+  "Mercredi 15 octobre 2025": {
+    "lecture": "Romains 2, 1-11",
+    "monition": "Saint Paul rappelle que Dieu jugera chacun selon ses œuvres, sans partialité."
+  },
+  "Jeudi 16 octobre 2025": {
+    "lecture": "Romains 3, 21-30",
+    "monition": "Saint Paul enseigne que la justice de Dieu se manifeste par la foi en Jésus-Christ pour tous les croyants."
+  },
+  "Vendredi 17 octobre 2025": {
+    "lecture": "Romains 4, 1-8",
+    "monition": "Saint Paul explique qu'Abraham a été justifié par la foi, non par les œuvres."
+  },
+  "Samedi 18 octobre 2025": {
+    "lecture": "2 Timothée 4, 10-17b",
+    "monition": "Saint Paul relate ses épreuves et comment le Seigneur l'a soutenu pour que le message soit pleinement proclamé."
+  },
+  "Lundi 20 octobre 2025": {
+    "lecture": "Romains 4, 20-25",
+    "monition": "Saint Paul souligne qu'Abraham n'a pas douté de la promesse de Dieu, sa foi lui fut comptée comme justice."
+  },
+  "Mardi 21 octobre 2025": {
+    "lecture": "Romains 5, 12.15b.17-19.20b-21",
+    "monition": "Saint Paul compare le péché d'Adam et la grâce apportée par le Christ, source de justification et de vie."
+  },
+  "Mercredi 22 octobre 2025": {
+    "lecture": "Romains 6, 12-18",
+    "monition": "Saint Paul exhorte à ne pas laisser le péché régner, mais à se présenter à Dieu comme instruments de justice."
+  },
+  "Jeudi 23 octobre 2025": {
+    "lecture": "Romains 6, 19-23",
+    "monition": "Saint Paul rappelle que le salaire du péché, c'est la mort ; mais le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ."
+  },
+  "Vendredi 24 octobre 2025": {
+    "lecture": "Romains 7, 18-25a",
+    "monition": "Saint Paul exprime le combat intérieur entre le désir de faire le bien et la réalité du péché en lui."
+  },
+  "Samedi 25 octobre 2025": {
+    "lecture": "Romains 8, 1-11",
+    "monition": "Saint Paul affirme que ceux qui sont en Christ Jésus sont libérés de la loi du péché et de la mort."
+  },
+  "Lundi 27 octobre 2025": {
+    "lecture": "Romains 8, 12-17",
+    "monition": "Saint Paul enseigne que tous ceux qui sont conduits par l'Esprit de Dieu sont fils de Dieu."
+  },
+  "Mardi 28 octobre 2025": {
+    "lecture": "Éphésiens 2, 19-22",
+    "monition": "Saint Paul déclare que nous sommes concitoyens des saints, membres de la maison de Dieu, édifiés sur le fondement des apôtres."
+  },
+  "Mercredi 29 octobre 2025": {
+    "lecture": "Romains 8, 26-30",
+    "monition": "Saint Paul explique que l'Esprit vient au secours de notre faiblesse et que Dieu coopère en tout pour le bien de ceux qui l'aiment."
+  },
+  "Jeudi 30 octobre 2025": {
+    "lecture": "Romains 8, 31b-39",
+    "monition": "Saint Paul affirme que rien ne pourra nous séparer de l'amour de Dieu manifesté en Jésus-Christ."
+  },
+  "Vendredi 31 octobre 2025": {
+    "lecture": "Romains 9, 1-5",
+    "monition": "Saint Paul exprime sa douleur pour ses frères israélites, à qui appartiennent l'adoption, la gloire et les alliances."
+  }
+}
