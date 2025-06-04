@@ -38,7 +38,6 @@ DATE_CIBLE = datetime.strptime(sys.argv[1], "%d/%m/%Y")
 # === Lecture des métadonnées ===
 meta = pd.read_excel(EXCEL_FILE, sheet_name=SHEET_META, header=None, index_col=None)
 CYCLE = str(meta.iloc[0, 1]).strip()
-DEBUT_AVENT = pd.to_datetime(meta.iloc[1, 5], dayfirst=True)
 
 # === Lecture des monitions ===
 df = pd.read_excel(EXCEL_FILE, sheet_name=SHEET_MONITIONS)
@@ -55,8 +54,8 @@ def extraire_monition(cell):
     if pd.isna(cell):
         return ("", "")
     cell = str(cell).strip()
-    # cell = re.sub(r"\s+[-–—]\s+", " — ", cell, 1)  # unifie le séparateur
-    parts = str(cell).split("—", 1)
+    cell = re.sub(r"\s+[-–—]\s+", " — ", cell, 1)  # unifie le séparateur
+    parts = cell.split("—", 1)
     return parts[0].strip(), parts[1].strip() if len(parts) > 1 else ""
 
 lectures = []
