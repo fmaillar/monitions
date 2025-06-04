@@ -35,7 +35,6 @@ Ce dépôt regroupe des fichiers JSON contenant des "monitions" liturgiques.
 
 Ces fichiers peuvent être consultés tels quels ou importés dans un outil capable de traiter du JSON afin de générer des documents ou sites web.
 
-
 ## Génération de fiches proclamateur
 
 Un fichier Excel **monitions.xlsm** se trouve à la racine du dépôt. Il sert de source de données pour le script `fiche_proclamateur.py` qui génère un document Word à partir du modèle `fiche_modele.docx`.
